@@ -1,6 +1,27 @@
-# Sony sound range: scrollytelling (unofficial concept)
+# Sony Sound Range — Cinematic Scrollytelling Concept
 
-A cinematic, Apple-style scroll story: a product sits in a deep black void, then **explodes into a floating technical diagram and reassembles** as you scroll, while copy slides in and out in sync and a bass soundtrack follows the scroll. Built with React + TypeScript + Three.js + Lenis (smooth scroll).
+<p align="center">
+  <strong>A cinematic exploration of sound, engineering, and motion.</strong>
+</p>
+
+<p align="center">
+  An unofficial Sony-inspired product storytelling experience built with React, TypeScript, Three.js, and Lenis.
+  <br />
+  Scroll through an immersive 3D journey where audio products disassemble into floating technical diagrams and reassemble in sync with cinematic visuals and an original generative soundtrack.
+</p>
+
+<p align="center">
+  <a href="https://sony-sound-range.vercel.app/"><strong>🚀 Explore Live Demo</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/rahul-diw/sony-sound-range"><strong>📂 View Source Code</strong></a>
+</p>
+
+<p align="center">
+  <strong>React</strong> · <strong>TypeScript</strong> · <strong>Three.js</strong> · <strong>Lenis</strong> · <strong>Web Audio API</strong>
+</p>
+
+> **Concept project:** An independent design and development experiment. Not affiliated with or endorsed by Sony. Product descriptions and specifications are illustrative.
+
 
 **Four products, one experience.** Scroll down to *Explore the range* and tap a product: the page fades through a curtain and the same story plays for it (own 3D model, copy, callouts, specs; same music).
 
