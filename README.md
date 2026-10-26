@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="screenshots/exploded-view.png" alt="Sony WH-1000XM6 exploded 3D view" width="100%" />
+</p>
+
 # Sony Sound Range — Cinematic Scrollytelling Concept
 
 <p align="center">
