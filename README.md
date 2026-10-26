@@ -87,3 +87,51 @@ npm run preview:model  # CPU-renders the model at 6 scroll positions to /tmp/pre
 1. Write a builder in `src/models/` that returns `{ root, parts, frames }` (see `speaker.ts`: each part has a base position, an exploded position and a tag: `pcb`/`mic` light up in the electronics beat, `driver` in the sound beat).
 2. Add an entry to `PRODUCTS` in `src/products.ts` with its camera `view`, copy, labels and specs.
 3. `npm test` checks the new model automatically: parts in frame at every scroll position and screen shape, no colliding parts when exploded, labels pointing at real parts on the correct side.
+
+## 📸 Product Showcase
+
+Explore the engineering and sound concepts behind all four products.
+
+### 🎧 Sony WH-1000XM6 — Headphones
+
+![Headphones Overview](screenshots/exploded-view.png)
+
+![Headphones Engineering](screenshots/headphones-engineering.png)
+
+![Headphones Noise Cancelling](screenshots/headphones-noise-cancelling.png)
+
+![Headphones Sound](screenshots/headphones-sound.png)
+
+### 🎵 Sony WF-1000XM5 — Wireless Earbuds
+
+![Earbuds Overview](screenshots/earbuds-overview.png)
+
+![Earbuds Engineering](screenshots/earbuds-engineering.png)
+
+![Earbuds Noise Cancelling](screenshots/earbuds-noise-cancelling.png)
+
+![Earbuds Sound](screenshots/earbuds-sound.png)
+
+### 🔊 Sony SRS-XG300 — Portable Speaker
+
+![Speaker Overview](screenshots/speaker-overview.png)
+
+![Speaker Engineering](screenshots/speaker-engineering.png)
+
+![Speaker Power](screenshots/speaker-power.png)
+
+![Speaker Sound](screenshots/speaker-sound.png)
+
+### 📺 Sony HT-A7000 — Home Theater
+
+![Home Theater Overview](screenshots/home-theater-overview.png)
+
+![Home Theater Engineering](screenshots/home-theater-engineering.png)
+
+![Home Theater Processing](screenshots/home-theater-processing.png)
+
+![Home Theater Sound](screenshots/home-theater-sound.png)
+
+---
+
+**Note:** This is an unofficial design concept created for practice and is not affiliated with or endorsed by Sony.
